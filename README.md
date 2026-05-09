@@ -1,6 +1,4 @@
-&#x20;**Student Performance Analysis - Version 1**
-
-
+# Student Performance Analysis – Final Version
 
 **Name:     FARHAN FAISAL**
 
